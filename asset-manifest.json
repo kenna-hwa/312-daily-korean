@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/312-daily-korean/static/css/main.e6c13ad2.css",
-    "main.js": "/312-daily-korean/static/js/main.92650f81.js",
+    "main.js": "/312-daily-korean/static/js/main.f71338ca.js",
     "static/js/787.d5fa4d18.chunk.js": "/312-daily-korean/static/js/787.d5fa4d18.chunk.js",
     "static/media/splash.png": "/312-daily-korean/static/media/splash.85c31e88b8160e02d75d.png",
     "static/media/complete_background.png": "/312-daily-korean/static/media/complete_background.e1f2a2a3c43b9ed9c06d.png",
@@ -16,11 +16,11 @@
     "static/media/before_complete.png": "/312-daily-korean/static/media/before_complete.4105cebb4c0a416bf325.png",
     "index.html": "/312-daily-korean/index.html",
     "main.e6c13ad2.css.map": "/312-daily-korean/static/css/main.e6c13ad2.css.map",
-    "main.92650f81.js.map": "/312-daily-korean/static/js/main.92650f81.js.map",
+    "main.f71338ca.js.map": "/312-daily-korean/static/js/main.f71338ca.js.map",
     "787.d5fa4d18.chunk.js.map": "/312-daily-korean/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.92650f81.js"
+    "static/js/main.f71338ca.js"
   ]
 }
