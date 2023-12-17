@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/312-daily-korean/static/css/main.e6c13ad2.css",
-    "main.js": "/312-daily-korean/static/js/main.6439f60c.js",
+    "main.js": "/312-daily-korean/static/js/main.b7528a40.js",
     "static/js/787.d5fa4d18.chunk.js": "/312-daily-korean/static/js/787.d5fa4d18.chunk.js",
+    "static/media/onboarding.png": "/312-daily-korean/static/media/onboarding.fbd03f913ac64d22f457.png",
     "static/media/splash.png": "/312-daily-korean/static/media/splash.85c31e88b8160e02d75d.png",
     "static/media/complete_character.gif": "/312-daily-korean/static/media/complete_character.0d90eebaba257771b22f.gif",
     "static/media/main_character.gif": "/312-daily-korean/static/media/main_character.bfadbf1b9a8e2d273d22.gif",
@@ -14,16 +15,15 @@
     "static/media/edit_button.png": "/312-daily-korean/static/media/edit_button.927d5f5da84614302c2c.png",
     "static/media/complete.png": "/312-daily-korean/static/media/complete.7a64b152718b7b3d9fbd.png",
     "static/media/after_complete.png": "/312-daily-korean/static/media/after_complete.5e060973ea202e6e246a.png",
-    "static/media/onboarding.png": "/312-daily-korean/static/media/onboarding.c0cdac1949e3cc360e26.png",
     "static/media/do_create.png": "/312-daily-korean/static/media/do_create.ccf84faa0f91e78e5012.png",
     "static/media/before_complete.png": "/312-daily-korean/static/media/before_complete.4105cebb4c0a416bf325.png",
     "index.html": "/312-daily-korean/index.html",
     "main.e6c13ad2.css.map": "/312-daily-korean/static/css/main.e6c13ad2.css.map",
-    "main.6439f60c.js.map": "/312-daily-korean/static/js/main.6439f60c.js.map",
+    "main.b7528a40.js.map": "/312-daily-korean/static/js/main.b7528a40.js.map",
     "787.d5fa4d18.chunk.js.map": "/312-daily-korean/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6439f60c.js"
+    "static/js/main.b7528a40.js"
   ]
 }
